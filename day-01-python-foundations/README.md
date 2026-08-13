@@ -24,7 +24,9 @@ Run each file using:
 ```bash
 python {file name}.py
 
-What I Learned: Variables, Data Types, String Methods, Operators, and Conditional Statements
+## What I Learned: 
+
+Variables, Data Types, String Methods, Operators, and Conditional Statements
 Learning these programming concepts helped me understand how programs work and how different pieces of code interact with one another. Each topic introduced a new concept that gradually improved my problem-solving skills.
 Variables
 One of the first things I learned was how to use variables. Variables are used to store information that can be used or changed throughout a program. I learned how to create variables, assign values to them, and update those values when necessary.
@@ -53,7 +55,7 @@ Conditional statements taught me how programs make decisions. Using if, elif, an
 This topic made programming feel more interactive because I could control how a program behaved based on different inputs.
 
 
-Challenges I Faced
+## Challenges I Faced
 Although these topics were interesting, I faced several challenges while learning them.
 One of the biggest challenges was understanding the differences between data types. Sometimes I accidentally treated numbers as strings, which caused unexpected results.
 Remembering different string methods was also difficult in the beginning. There were many methods to learn, and I often had to look up their syntax while practicing.
