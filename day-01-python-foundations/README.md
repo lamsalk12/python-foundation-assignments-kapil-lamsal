@@ -54,8 +54,8 @@ Conditional Statements
 Conditional statements taught me how programs make decisions. Using if, elif, and else statements allowed me to create programs that respond differently depending on specific conditions.
 This topic made programming feel more interactive because I could control how a program behaved based on different inputs.
 
-
 ## Challenges I Faced
+
 Although these topics were interesting, I faced several challenges while learning them.
 One of the biggest challenges was understanding the differences between data types. Sometimes I accidentally treated numbers as strings, which caused unexpected results.
 Remembering different string methods was also difficult in the beginning. There were many methods to learn, and I often had to look up their syntax while practicing.
