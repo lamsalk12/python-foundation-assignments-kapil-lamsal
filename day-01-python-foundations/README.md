@@ -22,7 +22,7 @@
 Run each file using:
 
 ```bash
-python {file name}.py
+python {file name}.py'''
 
 ## What I Learned
 
