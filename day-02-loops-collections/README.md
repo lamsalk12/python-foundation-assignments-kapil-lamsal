@@ -31,4 +31,4 @@ Learning these concepts helped me understand how to process and organize data mo
 
 ## Challenges I Faced
 
-I also found list comprehensions and nested dictionaries challenging because their syntax was new to me.
+I found list comprehensions and nested dictionaries challenging because their syntax was new to me.
