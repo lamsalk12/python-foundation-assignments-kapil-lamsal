@@ -26,6 +26,8 @@ python {file name}.py
 
 ## What I Learned: 
 
+## What I Learned
+
 Variables, Data Types, String Methods, Operators, and Conditional Statements
 Learning these programming concepts helped me understand how programs work and how different pieces of code interact with one another. Each topic introduced a new concept that gradually improved my problem-solving skills.
 Variables
