@@ -24,8 +24,6 @@ Run each file using:
 ```bash
 python {file name}.py
 
-## What I Learned: 
-
 ## What I Learned
 
 Variables, Data Types, String Methods, Operators, and Conditional Statements
